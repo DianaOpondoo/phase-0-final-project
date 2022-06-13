@@ -1,3 +1,12 @@
 body {
     background-color: aquamarine;
+    overflow-x: hidden;
+}
+
+.pin h1 {
+    color: crimson;
+    position: relative;
+    text-align: center;
+    font-size: 70px;
+    top: -30px;
 }
