@@ -31,3 +31,9 @@ body {
     font-size: 25px;
 }
 
+.pin .imagepin img {
+    float: left;
+    position: relative;
+    left: 200px;
+    top: -450px;
+}
