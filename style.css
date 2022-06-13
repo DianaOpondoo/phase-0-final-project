@@ -37,3 +37,12 @@ body {
     left: 200px;
     top: -450px;
 }
+
+.end img {
+    float: left;
+    position: relative;
+    left: 300px;
+    top: 200px;
+    margin: 0;
+    padding:0;
+}
